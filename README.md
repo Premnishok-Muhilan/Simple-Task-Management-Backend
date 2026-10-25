@@ -76,13 +76,6 @@ Base URL: `http://localhost:8080/api/v1/tasks`
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/YOUR_USERNAME/Simple-Task-Management-Backend.git
-cd Simple-Task-Management-Backend
-```
-
-Replace `YOUR_USERNAME` with your GitHub username and adjust the repository URL if needed.
-
 ### 2. Create the MySQL database
 
 Connect to MySQL and execute:
